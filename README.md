@@ -4,8 +4,8 @@ Ejecución de pruebas funcionales y de UI para identificar errores críticos y g
 Analizar y asegurar que los endpoints admitan los nuevos requisitos
 ## Tecnologías utilizadas
 -Excel (Registro de pruebas y resultados)
-- Postman (colección de pruebas)
-- JIRA (Registro y seguimiento de errores)
+-Postman (colección de pruebas)
+-JIRA (Registro y seguimiento de errores)
 
 ## Casos de prueba ejecutados
 - CP01: Verificar que el usuario pueda añadir un producto existente a un kit.
