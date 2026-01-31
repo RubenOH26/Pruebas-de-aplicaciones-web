@@ -12,7 +12,7 @@ Analizar y asegurar que los endpoints admitan los nuevos requisitos
 - CP02: Verificar que el usuario no pueda añadir un producto existente a un kit inexistente.
 - CP03: Verificar que el usuario no pueda añadir un producto existente sin un kit.
 La documentación completa de los casos de prueba, resultados y reportes se encuentra en el archivo:
-- [casos_prueba.xlsx](casos_prueba.xlsx)
+- [casos_prueba](Proyecto_para_el_4.°_Sprint_Ejercicio.xlsx)
 ## Resultados
 ![Captura de pruebas](docs/evidencia.png)
 
