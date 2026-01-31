@@ -20,9 +20,5 @@ La documentación completa de los casos de prueba, resultados y reportes se encu
 - [Captura Resultado de prueba_CP01](CP03-EVI.png)
 
 ## Aprendizajes
-- Identifiqué errores que se pueden estar ocasionándose por no usar
+- Identifiqué errores que se pueden estar ocasionándose por no usar de manera adecuada los endpoints
 - Practiqué validación de status codes y tiempos de respuesta.
-
-## 🚀 Próximos pasos
-
-  
